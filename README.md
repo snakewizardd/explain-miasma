@@ -34,9 +34,17 @@ The analysis intentionally avoided:
 
 ## Contents
 
-- `MIASMA_SHAREABLE_PACKAGE.md`: a shareable defensive summary of the static
+- `MIASMA_SHAREABLE_PACKAGE.md`: shareable defensive summary of the static
   findings, affected ecosystems, indicators, capability mapping, containment
   guidance, and limitations.
+- `FILE_BY_FILE_TRIAGE.md`: file-by-file static triage grouped by loaders,
+  mutators, collectors, providers, senders, and exfiltration paths.
+- `INDUSTRY_FINDINGS_NOTE.md`: industry-facing findings note for broader
+  security communication and stakeholder briefing.
+- `STATIC_ANALYSIS_TEMPLATE.md`: reusable static-analysis template for future
+  safe reviews of suspicious archives or source packages.
+- `README.md`: repository provenance, safety boundary, navigation, and intended
+  use.
 
 ## Intended use
 
